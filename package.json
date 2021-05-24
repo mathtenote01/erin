@@ -12,7 +12,7 @@
     "express": "^4.16.4",
     "http-errors": "~1.6.3",
     "materialize-css": "^1.0.0-rc.2",
-    "mongodb": "^3.0.10",
+    "mongodb": "^3.1.13",
     "morgan": "~1.9.1",
     "python-shell": "^2.0.3"
   }
